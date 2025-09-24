@@ -1,0 +1,413 @@
+Name 		: Mr.Thirumalesh
+Experience 	:  8+Years[4-companies]
+TechStack   :  HTML,CSS,JS,BOOTSTRAP,React,Angualr
+               Core Java,Java8,J2EE(JDBC,JSP,SERVLETS),Spring,SpringBoot.
+			   Oracle,Mysql,PGSQL,MONGO
+			   AWS,AZURE,GCP,LINUX
+			   AI TOOLS[GITHUB COPILOT]-> IntelliJ IDE,VS-CODE.
+Role        : Tech Lead[Product based company + Service Based company]
+
+=======================================================================
+Java Full stack program
+=======================================================================
+1) Backend Technlogies + Database
+2) FrontEnd Technlogies
+3) RealTime Project[E-Commerce] + RealTime tools[15 + Tools]
+4) AI Technlogies[AI TOOLS + CHATGPT + DEEPSEEK + GEMINI]
+
+
+
+1) Backend Technlogies + Database:
+----------------------------------
+ Core Java,
+ Java8,
+ J2EE(JDBC,JSP,SERVLETS),
+ Spring,
+ SpringBoot.
+ Oracle,
+ Mysql,
+ PGSQL,
+ MONGODB.
+ 
+ 
+ 
+
+ 2) FrontEnd Technlogies:
+ ------------------------
+ HTML,
+ CSS,
+ JS,
+ BOOTSTRAP,
+ React,
+ Angular
+ 
+ 3) RealTime Project[E-Commerce] + RealTime tools[15 + Tools]
+=============================================================
+JIRA : Task assighnee sofware
+       Project management sofware
+	   Bug reporting sofware.
+	   
+	  JIRA-101: Login,Registration,Forgot...
+	  
+GITHUB/Gitlab/BitBucket: Source code monitoring tool, Source code integration tool
+
+Maven/Gradle: Build automation tools.
+Docker
+K8S
+CICD
+JMETER
+JUNIT
+EASYMOCK/POWER MOCK/WIRE MOCK
+REDIS
+KAFKA
+POSTMAN
+SWAGGER..15 TO 20+
+
+Language:
+---------
+ Language is a mediator.
+ 1) Human languages
+ 2) Programming Languages
+ 
+ 1) Human languages:
+ --------------------
+ If one person wants to communicate with the another person we are having human
+ languages in the market.
+ Ex: Enlish,Telugu,Hini....
+ 
+ 2) Programming Languages:
+ -------------------------
+ If one person wants to communicate with the machine/Computer we are having programming
+ language in the market.
+ 
+ Ex:C,C++,JAVA,PYTHON....
+ 
+1) Backend Technlogies + Database:
+----------------------------------
+ Core Java,
+ Java8,
+ J2EE(JDBC,JSP,SERVLETS),
+ Spring,
+ SpringBoot.
+ Oracle,
+ Mysql,
+ PGSQL,
+ MONGODB.
+ 
+ 
+ Java:
+ -----
+ Java is a programming language.
+ James gosling is the team lead at time of java language development.
+ Latest version of java is Jdk25
+ Java language developed by sun-microsystem.
+ Now java under the licence oracle company.
+ Every 6 months new version is come into the market[March,September].
+ LTS[Java8,java11,java17,java21,java25].
+ 
+ 
+ Java8:
+ ------
+ Before java1.8 our java is object oriented programming language.
+ From java1.8 our java is functional programming language also.
+ 
+ J2EE(JDBC,JSP,SERVLETS):
+ ------------------------
+ JDBC:
+		--> Java database connectivity
+		--> If  java application wants to communicate with database we are having jdbc technlogy.
+        --> Only one technlogy available in the market to connect with db.
+ 
+ CRUD:[CREATE/INSERT,READ,UPDATE,DELETE)
+ 
+ JSP:
+ ----
+ By using JSP Technlogy we can develop dynamic web applications
+ 
+ 1) STATIC WEB APPLICATION 
+ 2) DYNAMIC WEB APPLICATION
+ 
+ 
+ SERVLETS:
+ --------
+ By using servelts technology we can easily handle the request/response
+ 
+ 
+ Framework:
+ -----------
+ Framework nothing but semideveloped project.
+ 
+ 
+ Hibernate,Struts
+ Hibernate:
+ ----------
+ By using hibernate we can develop persistence layer of the application.
+ 
+ Struts:
+ -------
+ By using struts framework we can develop only controller layer.
+ 
+ Spring:
+ -------
+ By using spring we can develop entire layer.
+ 
+ Standalone applications.
+ Web applications [C2B]
+ Distributed application[B2B]
+ 
+ 
+ 
+ 
+ PROJECT DEVELOPMENT = Common logic  + Business Logic
+ 
+ 
+ 
+ SpringBoot:
+ -----------
+ SpringBoot is a an approch to develop the spring based applications with less configuration.
+ Spring boot internally uses spring frame framework only
+ Spring boot is the extension of spring framework.
+ What type of the applications we can develop by using spring, Those application we can develop by using boot also
+ 
+ SpringBoot = SpringFramework - XML Configuration.
+ 
+ 1)Monolithic Application
+ 2)Microservices application.
+ 
+ 
+ 1)Monolithic Application:
+ -------------------------
+ If we develop all the functionalities in a single project/jar called monolithic application.
+ 
+2)Microservices application:
+----------------------------
+If we develop all the functionali
+
+
+Java Features:
+---------------
+Simple:
+------
+C/C++--> Pointers,Memory Management,Operator overloading,Exception Handling[1,2,3,4,5,6....50...100].
+
+Platfom Independent:
+-------------------
+If we develop our application in one OS, We can run on any OS available in the market.
+ 
+OOPS:
+----
+ -->	Object oriented programming system
+ -->  In the oops we are having 4-pillors
+		1) Inheritence
+		2) Polymorphism
+		3) Encapsulation
+		4) Abstration
+		
+		1) Inheritence:
+		---------------
+		Getting the properties from the parents
+		Inheriting the properties from parent class to the child class.
+		  1) Single Inheritence[child--> parent]
+		  2) Multilevel Inheritence[child-->parent -> grandparent ->.....]
+		  3) Hierachila inheritence[1parent --> multiple childs]
+		  4) Hybrid Inheritence[combination of any two inheritenc is called as a hybrid]
+		  5) Multiple inheritence[multiple parents ---> one child]
+		  
+		 
+		 2) Polymorphism:
+		 ----------------
+		 Poly --> Many
+		 Morphism--> forms
+		 
+		 If perform single task multiple ways called as a polymorphism.
+		 
+		 Ex: a+b,a+b+c,a+b+c+d...
+		 
+		  1) Compiletime Polymporphism[static binding]
+		  2) Runtime Polymorphism[Dynamic binding]
+		  
+		  3) Encapsulation:
+		  -----------------
+		  Wrapping of variables and methods in a single unit of class.
+		  
+		  
+		  4) Abstration:
+		  -------------
+		  Hiding the unnecessory functionalities and showing the required functionalites.
+		  
+		  
+		  required functionalites.:
+		  -------------------------
+		  We can check the balance
+		  We can withdraw the money
+		  we can change pin.
+		  
+		  unnecessory functionalities:
+		  ---------------------------
+		  When we are doing above functionalities no need to know what happing internally.
+		  
+		  Ex: ATM Machine.
+		  
+		  Variables
+		  Datatypes
+		  Naming conventions,keyworkssss
+		  Operators
+		  Loops
+		  Conditional Statements
+		  Arrrays
+		  Strings
+		  OOPS
+		  Collections
+		  Exception Handling
+		  Multithredding
+		  JAVA8
+		  File Handling
+		  
+ Variables:
+ ------------
+ Variables is used to store the data.
+		  
+		  number=100;
+		  letter='a';
+		  isPass=true;
+		  price=100.00;
+		  name="hari";
+		  
+		 -> When ever storing the  data into the variables 
+		 -> we need to tell to the variable which type of we are storing
+		 
+		  int number=100;
+		  char letter='a';
+		  boolean isPass=true;
+		  double price=100.00;
+		  String name="hari";
+		  
+		  
+	I)	  1)declation of variables:
+		  -----------------------
+		  int number;
+		  char letter;
+		  boolean isPass;
+		  double price;
+		  String name;
+		  
+		  2)Initiolization of variables
+		  -----------------------------
+		  number=200;
+		  letter='A';
+		  isPass=true;
+		  price=200.00;
+		  name="chandu";
+		  
+	II)	  declation & Initiolizatoin we can do in single step
+	---------------------------------------------------------------------
+		  int number=100;
+		  char letter='a';
+		  boolean isPass=true;
+		  double price=100.00;
+		  String name="hari";
+		  
+DataTypes:
+----------
+1)Primitive datatype[byte,short,int,long,float,double][char,boolean]
+2)Non-primitive Datatype[Referenced Datatype][String,Arrays,Object,Employee]
+		  
+
+		  
+	1)Primitive datatype
+		1)Numeric
+		       Integral
+					byte
+					short
+					int
+					long
+			   Decimal/Floating point
+					float
+					double
+		2)Non-numeric
+		        char
+				boolean
+		
+ 
+Integral/Integer
+	byte:It is used to store the +/-  integer/number data, 
+		 The size of the byte datatype is 1byte memory
+		 default size=0;
+		 
+	short:It is used to store the +/-  integer data, 
+		The size of the byte datatype is 2bytes
+		default size=0;
+		
+	int:It is used to store the +/-  integer data, 
+		The size of the byte datatype is 4bytes
+		default size=0;
+	
+	long:It is used to store the +/-  integer data, 
+		The size of the byte datatype is 8bytes
+		default size=0;
+		
+		NOTE: 1byte = 8bits
+		
+Decimal/Floating point
+	float:It is used to store the +/-  decimal data, 
+		  The size of the byte datatype is 4bytes
+		  default size=0.0;
+	double:It is used to store the +/-  decimal data, 
+	       The size of the byte datatype is 8bytes
+		   default size=0.0;
+ 
+ 2)Non-numeric
+		
+		char: It is used to store the character data[a-z][A-Z][0-9][@,#,$...].
+		        The size of the char datatype is 1byte
+				default size=empty(\u000)
+		boolean:
+		     It is used to store the boolean data(true/false)
+			 The size of the char datatype is 1bit
+			 default size=false
+ 
+ 
+ https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2025-06/R/eclipse-inst-jre-win64.exe
+ 
+ 
+Non-Primitive or Referenced Datatype or Object type.
+----------------------------------------------------
+Arrays
+Strings
+Object
+
+Employee
+Demo
+
+
+
+Structure of java program:
+--------------------------
+package statements[0 to n-times]
+import statements[0 to n-times]
+class statements[1-time]
+variables[0 to n-times]
+methods[0 to n-times]
+
+package statements:
+------------------
+Group of classes & Interfaces.
+
+
+
+Step-1: Creat a java project
+Step: Under this project create a packages
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+				

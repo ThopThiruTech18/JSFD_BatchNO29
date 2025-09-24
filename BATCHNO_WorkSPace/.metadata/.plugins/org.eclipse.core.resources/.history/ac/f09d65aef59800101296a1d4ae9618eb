@@ -1,0 +1,29 @@
+package in.versionit.variables;
+
+public class VariablesExmples2 {
+
+	static byte b;
+	static short s = 20;
+	static int i = 30;
+	static long l = 300;
+
+	static float f = 400;
+	static double d = 2000;
+
+	static char c = 'B';
+	static boolean b1 = true;
+
+	public static void main(String[] args) {
+
+		System.out.println(b);
+		System.out.println(s);
+		System.out.println(i);
+		System.out.println(l);
+		System.out.println(f);
+		System.out.println(d);
+		System.out.println(c);
+		System.out.println(b1);
+
+	}
+
+}
