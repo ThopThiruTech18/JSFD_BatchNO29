@@ -1,7 +1,11 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples,org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples2
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples,org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples2,org.eclipse.launchbar.core.descriptorType.default\:ArithematicOperators,org.eclipse.launchbar.core.descriptorType.default\:RelationalOperators,org.eclipse.launchbar.core.descriptorType.default\:LogicalOperators,org.eclipse.launchbar.core.descriptorType.default\:AssighnmentOperator,org.eclipse.launchbar.core.descriptorType.default\:UneryOperator,org.eclipse.launchbar.core.descriptorType.default\:LoopsExamples,org.eclipse.launchbar.core.descriptorType.default\:LoopsExamples2,org.eclipse.launchbar.core.descriptorType.default\:LoopsExamples3
 eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ArithematicOperators/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:ArithematicOperators/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:LoopsExamples2/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:LoopsExamples3/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:VariablesExmples/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
