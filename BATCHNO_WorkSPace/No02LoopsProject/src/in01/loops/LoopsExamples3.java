@@ -49,9 +49,18 @@ public class LoopsExamples3 {
 //		}
 		
 		//999 to 91
-				int start=999;
-				int end=91;
-				for (int i = start; i >= end; i--) {
+//				int start=999;
+//				int end=91;
+//				for (int i = start; i >= end; i--) {
+//					System.out.println(i);
+//					
+//				}
+				
+				for (char i = 'a'; i <= 'z'; i++) {
+					System.out.println(i);
+					
+				}
+				for (char i = 'A'; i <= 'Z'; i++) {
 					System.out.println(i);
 					
 				}
