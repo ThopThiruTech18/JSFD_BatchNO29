@@ -317,16 +317,16 @@ DataTypes:
 	1)Primitive datatype
 		1)Numeric
 		       Integral
-					byte
-					short
-					int
-					long
+					byte  -> 1 BYTE  -> 0 -> +/-
+					short -> 2 BYTES -> 0 -> +/-
+					int   -> 4 BYTES -> 0 -> +/-
+					long  -> 8 BYTES -> 0 -> +/-
 			   Decimal/Floating point
-					float
-					double
+					float 	-> 4 BYTES -> 0.0 -> +/-
+					double  -> 8 BYTES -> 0.0 -> +/-
 		2)Non-numeric
-		        char
-				boolean
+		        char      -> 2 BYTES  -> EMPTY -> 'A'
+				boolean   -> 1BIT --> false
 		
  
 Integral/Integer
@@ -383,20 +383,148 @@ Demo
 
 Structure of java program:
 --------------------------
-package statements[0 to n-times]
+package statements[0 to 1 times]
 import statements[0 to n-times]
-class statements[1-time]
+class statements[1-n times]
 variables[0 to n-times]
 methods[0 to n-times]
 
 package statements:
-------------------
-Group of classes & Interfaces.
+-------------------
+Group of classes,Interfaces,Enum.
 
 
 
 Step-1: Creat a java project
-Step: Under this project create a packages
+Step: Under this project
+		--> src
+		-> create a packages 
+		--> classes/Interfaces/Enum
+
+
+Non-Primitive or Referenced Datatype or Object type.
+----------------------------------------------------
+Arrays
+Strings
+Object
+
+Employee
+Demo
+
+Arrays:
+-------
+It is used to store more than one value into the single variable.
+Ex:
+		int[] numbers=new int[] {10,23,50,89,48,13};  //int[] 100values-->4bytes //400-4=394
+		char[] character=new char[] {'a','v','c'};  //int[] 100values-->4bytes
+		float[] prices=new float[] {10.10f,20.20f,30.30f};  //int[] 100values-->4bytes
+	
+
+ String:
+ -------
+ It a combination of alphanumericspecial characters
+ [a-z][A-Z][0-9][!@#$%]
+ 
+ String  String literal approach:
+ ------------------------
+ String s="9hari9@@@A";
+ 
+ By using new keyword
+ ------------------------
+ String str=new String("vijay");
+ 
+ 
+ Object:
+ --------
+ Object class the super class for all the classes.
+ 
+ Method:
+ ------
+ toString()
+ equals()
+ finalize()
+ hashcode()
+ notify()
+ notifyAll()
+ getClass()
+ wait()
+ wait(1param)
+ wait(2param)
+ clone()
+ 
+ 
+ Operators:
+ ----------
+ Operator is used to perfrom the operations on the operands
+ 
+ Ex: a+b,a-b,a*b.
+ 
+ Operators: +,-,*
+ Operands: a,b
+ 
+ 1) Arithematic Operators[+,-,*,/,%]
+ 2) Relational Operators/Comparison Operator[==,!=,<,<=,>,>-]
+ 3) Logical Operators [AND(&&),OR(||),NOT(!)]
+ 4) Unery Operator
+			[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
+			2) Decrement(1)Pre-Decrement(--a),2)Post Decrement(a--), 
+ 5) Ternery Operator[num>0?true:false;]
+ 6) Assignment Operator[=,+=,-=,*=,/=,%=]
+ 
+ 
+ 	// 1) Arithematic Operators[+,-,*,/,%]
+		int a = 10;
+		int b = 5;
+
+		System.out.println(a + b);//15
+		System.out.println(a - b);//5
+		System.out.println(a * b);//50
+		System.out.println(a / b);//2
+		System.out.println(a % b);//10%5==>0
+		
+		//2) Relational Operators/Comparison Operator[==,!=,<,<=,>,>=]
+		int a = 10;
+		int b = 20;
+		System.out.println(a == b); // false
+		System.out.println(a != b); // true
+		System.out.println(a < b); // true
+		System.out.println(a <= b);// true
+		System.out.println(a > b);// false
+		System.out.println(a >= b);// false
+		
+		//		3) Logical Operators [AND(&&),OR(||),NOT(!)]
+
+		System.out.println(true && true && true && true && true && true);// true
+		System.out.println(false && true && true && true && true && true);// false
+		System.out.println(false && false && true && true && true && true);// false
+		System.out.println(false && false && false && true && true && true);// false
+		System.out.println(false && false && false && false && false && false);// false
+
+		System.out.println("----------------------------------------------------");
+		System.out.println(true || false || false || false || false || false);// true
+		System.out.println(false || false || false || false || false || false);// false
+		System.out.println("----------------------------------------------------");
+		System.out.println(!true);// false
+		System.out.println(!false);// true
+		
+		//		 4) Unery Operator
+//	[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
+//	2) Decrement(1)Pre-Decrement(--a),2)Post Decrement(a--), 
+
+//		[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
+		// pre--> It will increment/decrement happend in the same line.
+		// post--> It will increment/decrement happend in the next line.
+		int a = 10;
+		System.out.println(++a);// 11
+		System.out.println(++a);// 12
+		System.out.println(a++);// 12
+		System.out.println(++a);// 12+1+1=14
+		System.out.println(a++);// 14
+		System.out.println(a++);// 15
+		System.out.println(++a);// 15+1+1=17
+ 
+ 
+ 
  
  
  
