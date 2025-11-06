@@ -6,23 +6,21 @@ public class Array7 {
 
 		int n = 6;
 
-		int sum2=0;
+		int sum2 = 0;
 
 //		for (int i = 1; i <= 6; i++) {
 //
 //			sum = sum + i;
 //
 //		}
-		
-		int sumOfElements=(n*(n+1))/2;
-		
+
+		int sumOfElements = (n * (n + 1)) / 2;
+
 		for (int i = 0; i < arr1.length; i++) {
-			sum2=sum2+arr1[i];
+			sum2 = sum2 + arr1[i];
 		}
-		
-		
-		
-	System.out.println(sumOfElements-sum2);
+
+		System.out.println(sumOfElements - sum2);
 
 	}
 

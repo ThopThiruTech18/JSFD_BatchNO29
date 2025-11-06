@@ -19,11 +19,7 @@ public class No01ArrayListExample2 {
 		al.add(30);
 		al.add(40);
 		al.add(50);
-		al.add(60);
-		al.add('c');
-		al.add(80.000);
-		al.add(true);
-		al.add("HI");
+		
 		
 		
 

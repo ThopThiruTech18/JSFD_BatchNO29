@@ -1,0 +1,33 @@
+Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!
+Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!
+Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!
+Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
+Enjoy learning Java!Hello, this is a sample file.
+Java 8 Streams make file reading easy!
+Each line in this file will be printed using Files.lines().
