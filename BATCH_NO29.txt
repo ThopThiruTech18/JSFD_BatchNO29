@@ -1,541 +1,939 @@
-Name 		: Mr.Thirumalesh
-Experience 	:  8+Years[4-companies]
-TechStack   :  HTML,CSS,JS,BOOTSTRAP,React,Angualr
-               Core Java,Java8,J2EE(JDBC,JSP,SERVLETS),Spring,SpringBoot.
-			   Oracle,Mysql,PGSQL,MONGO
-			   AWS,AZURE,GCP,LINUX
-			   AI TOOLS[GITHUB COPILOT]-> IntelliJ IDE,VS-CODE.
-Role        : Tech Lead[Product based company + Service Based company]
+Name  		: 		Mr.Thirumalesh[Sir]
+Experience  : 		8+years[4-Companies]
+TechStack   :   Html,css,js,boostrap,Angular,React
+                Java,java8,J2EE(JDBC,JSP,SERLETS)
+				,Spring,Springboot,Microservices.
+				AWS,AZURE,GCP
+				AI--> GITGUB COPILOT
+				Mysql,Oracle,Pgsql,Mongodb.
 
-=======================================================================
-Java Full stack program
-=======================================================================
-1) Backend Technlogies + Database
-2) FrontEnd Technlogies
-3) RealTime Project[E-Commerce] + RealTime tools[15 + Tools]
-4) AI Technlogies[AI TOOLS + CHATGPT + DEEPSEEK + GEMINI]
+Role        : 	TechLead
+------------------------------------------------------------
+Java fullstack program
+------------------------------------------------------------
+1)Backend Technlogies:
+--------------------
+			Java,java8,J2EE(JDBC,JSP,SERLETS)
+			,Spring,Springboot,Microservices.
 
+2)Frontend Technlogies
+-----------------------------------
+			Html,css,js,boostrap,Angular,React.
 
+3)RealTime Projects[E-Commerce]  + Realtime Tools
+-------------------------------------------------
 
-1) Backend Technlogies + Database:
-----------------------------------
- Core Java,
- Java8,
- J2EE(JDBC,JSP,SERVLETS),
- Spring,
- SpringBoot.
- Oracle,
- Mysql,
- PGSQL,
- MONGODB.
- 
- 
- 
+Realtime Tools[15+]:
+--------------------
+JIRA : Task/work getting software.
 
- 2) FrontEnd Technlogies:
- ------------------------
- HTML,
- CSS,
- JS,
- BOOTSTRAP,
- React,
- Angular
- 
- 3) RealTime Project[E-Commerce] + RealTime tools[15 + Tools]
-=============================================================
-JIRA : Task assighnee sofware
-       Project management sofware
-	   Bug reporting sofware.
-	   
-	  JIRA-101: Login,Registration,Forgot...
-	  
-GITHUB/Gitlab/BitBucket: Source code monitoring tool, Source code integration tool
+Github/gitlab/bitbucket: Source code repository server.
 
-Maven/Gradle: Build automation tools.
-Docker
-K8S
-CICD
-JMETER
-JUNIT
-EASYMOCK/POWER MOCK/WIRE MOCK
-REDIS
-KAFKA
-POSTMAN
-SWAGGER..15 TO 20+
+Maven/Gradle : Build automation tools.
 
-Language:
----------
- Language is a mediator.
- 1) Human languages
- 2) Programming Languages
- 
- 1) Human languages:
- --------------------
- If one person wants to communicate with the another person we are having human
- languages in the market.
- Ex: Enlish,Telugu,Hini....
- 
- 2) Programming Languages:
- -------------------------
- If one person wants to communicate with the machine/Computer we are having programming
- language in the market.
- 
- Ex:C,C++,JAVA,PYTHON....
- 
-1) Backend Technlogies + Database:
-----------------------------------
- Core Java,
- Java8,
- J2EE(JDBC,JSP,SERVLETS),
- Spring,
- SpringBoot.
- Oracle,
- Mysql,
- PGSQL,
- MONGODB.
- 
- 
- Java:
- -----
- Java is a programming language.
- James gosling is the team lead at time of java language development.
- Latest version of java is Jdk25
- Java language developed by sun-microsystem.
- Now java under the licence oracle company.
- Every 6 months new version is come into the market[March,September].
- LTS[Java8,java11,java17,java21,java25].
- 
- 
- Java8:
- ------
- Before java1.8 our java is object oriented programming language.
- From java1.8 our java is functional programming language also.
- 
- J2EE(JDBC,JSP,SERVLETS):
- ------------------------
- JDBC:
-		--> Java database connectivity
-		--> If  java application wants to communicate with database we are having jdbc technlogy.
-        --> Only one technlogy available in the market to connect with db.
- 
- CRUD:[CREATE/INSERT,READ,UPDATE,DELETE)
- 
- JSP:
- ----
- By using JSP Technlogy we can develop dynamic web applications
- 
- 1) STATIC WEB APPLICATION 
- 2) DYNAMIC WEB APPLICATION
- 
- 
- SERVLETS:
- --------
- By using servelts technology we can easily handle the request/response
- 
- 
- Framework:
- -----------
- Framework nothing but semideveloped project.
- 
- 
- Hibernate,Struts
- Hibernate:
- ----------
- By using hibernate we can develop persistence layer of the application.
- 
- Struts:
- -------
- By using struts framework we can develop only controller layer.
- 
- Spring:
- -------
- By using spring we can develop entire layer.
- 
- Standalone applications.
- Web applications [C2B]
- Distributed application[B2B]
- 
- 
- 
- 
- PROJECT DEVELOPMENT = Common logic  + Business Logic
- 
- 
- 
- SpringBoot:
- -----------
- SpringBoot is a an approch to develop the spring based applications with less configuration.
- Spring boot internally uses spring frame framework only
- Spring boot is the extension of spring framework.
- What type of the applications we can develop by using spring, Those application we can develop by using boot also
- 
- SpringBoot = SpringFramework - XML Configuration.
- 
- 1)Monolithic Application
- 2)Microservices application.
- 
- 
- 1)Monolithic Application:
- -------------------------
- If we develop all the functionalities in a single project/jar called monolithic application.
- 
-2)Microservices application:
-----------------------------
-If we develop all the functionali
+Docker	:  Containerization sofware[100]
 
+K8S  :  Archastration tool.
 
-Java Features:
----------------
-Simple:
-------
-C/C++--> Pointers,Memory Management,Operator overloading,Exception Handling[1,2,3,4,5,6....50...100].
+JENKINS : CICD
 
-Platfom Independent:
--------------------
-If we develop our application in one OS, We can run on any OS available in the market.
- 
-OOPS:
-----
- -->	Object oriented programming system
- -->  In the oops we are having 4-pillors
-		1) Inheritence
-		2) Polymorphism
-		3) Encapsulation
-		4) Abstration
-		
-		1) Inheritence:
-		---------------
-		Getting the properties from the parents
-		Inheriting the properties from parent class to the child class.
-		  1) Single Inheritence[child--> parent]
-		  2) Multilevel Inheritence[child-->parent -> grandparent ->.....]
-		  3) Hierachila inheritence[1parent --> multiple childs]
-		  4) Hybrid Inheritence[combination of any two inheritenc is called as a hybrid]
-		  5) Multiple inheritence[multiple parents ---> one child]
-		  
-		 
-		 2) Polymorphism:
-		 ----------------
-		 Poly --> Many
-		 Morphism--> forms
-		 
-		 If perform single task multiple ways called as a polymorphism.
-		 
-		 Ex: a+b,a+b+c,a+b+c+d...
-		 
-		  1) Compiletime Polymporphism[static binding]
-		  2) Runtime Polymorphism[Dynamic binding]
-		  
-		  3) Encapsulation:
-		  -----------------
-		  Wrapping of variables and methods in a single unit of class.
-		  
-		  
-		  4) Abstration:
-		  -------------
-		  Hiding the unnecessory functionalities and showing the required functionalites.
-		  
-		  
-		  required functionalites.:
-		  -------------------------
-		  We can check the balance
-		  We can withdraw the money
-		  we can change pin.
-		  
-		  unnecessory functionalities:
-		  ---------------------------
-		  When we are doing above functionalities no need to know what happing internally.
-		  
-		  Ex: ATM Machine.
-		  
-		  Variables
-		  Datatypes
-		  Naming conventions,keyworkssss
-		  Operators
-		  Loops
-		  Conditional Statements
-		  Arrrays
-		  Strings
-		  OOPS
-		  Collections
-		  Exception Handling
-		  Multithredding
-		  JAVA8
-		  File Handling
-		  
- Variables:
- ------------
- Variables is used to store the data.
-		  
-		  number=100;
-		  letter='a';
-		  isPass=true;
-		  price=100.00;
-		  name="hari";
-		  
-		 -> When ever storing the  data into the variables 
-		 -> we need to tell to the variable which type of we are storing
-		 
-		  int number=100;
-		  char letter='a';
-		  boolean isPass=true;
-		  double price=100.00;
-		  String name="hari";
-		  
-		  
-	I)	  1)declation of variables:
-		  -----------------------
-		  int number;
-		  char letter;
-		  boolean isPass;
-		  double price;
-		  String name;
-		  
-		  2)Initiolization of variables
-		  -----------------------------
-		  number=200;
-		  letter='A';
-		  isPass=true;
-		  price=200.00;
-		  name="chandu";
-		  
-	II)	  declation & Initiolizatoin we can do in single step
-	---------------------------------------------------------------------
-		  int number=100;
-		  char letter='a';
-		  boolean isPass=true;
-		  double price=100.00;
-		  String name="hari";
-		  
-DataTypes:
+JMETER : It used to check stability & responisiveness of the application.
+
+JUNIT :1..5,6...100
+
+Mocking[Power Mock,Easy Mock,Wire Mock].
+
+POSTMAN: Rest API testing tool
+
+SWAGGER: API Testing tool....15..20+
+
+AI-MODULE:
 ----------
-1)Primitive datatype[byte,short,int,long,float,double][char,boolean]
-2)Non-primitive Datatype[Referenced Datatype][String,Arrays,Object,Employee]
-		  
 
-		  
-	1)Primitive datatype
-		1)Numeric
-		       Integral
-					byte  -> 1 BYTE  -> 0 -> +/-
-					short -> 2 BYTES -> 0 -> +/-
-					int   -> 4 BYTES -> 0 -> +/-
-					long  -> 8 BYTES -> 0 -> +/-
-			   Decimal/Floating point
-					float 	-> 4 BYTES -> 0.0 -> +/-
-					double  -> 8 BYTES -> 0.0 -> +/-
-		2)Non-numeric
-		        char      -> 2 BYTES  -> EMPTY -> 'A'
-				boolean   -> 1BIT --> false
+AI--> GITGUB COPILOT
+Sprint = 14
+
+Spring AI.
+ChatGPT+GEMINI+DEEPSEEK.
+
+longuage: Language is a mediator for the communication.
+		Human Languages:
+		Programming languages:
 		
- 
-Integral/Integer
-	byte:It is used to store the +/-  integer/number data, 
-		 The size of the byte datatype is 1byte memory
-		 default size=0;
-		 
-	short:It is used to store the +/-  integer data, 
-		The size of the byte datatype is 2bytes
-		default size=0;
-		
-	int:It is used to store the +/-  integer data, 
-		The size of the byte datatype is 4bytes
-		default size=0;
-	
-	long:It is used to store the +/-  integer data, 
-		The size of the byte datatype is 8bytes
-		default size=0;
-		
-		NOTE: 1byte = 8bits
-		
-Decimal/Floating point
-	float:It is used to store the +/-  decimal data, 
-		  The size of the byte datatype is 4bytes
-		  default size=0.0;
-	double:It is used to store the +/-  decimal data, 
-	       The size of the byte datatype is 8bytes
-		   default size=0.0;
- 
- 2)Non-numeric
-		
-		char: It is used to store the character data[a-z][A-Z][0-9][@,#,$...].
-		        The size of the char datatype is 1byte
-				default size=empty(\u000)
-		boolean:
-		     It is used to store the boolean data(true/false)
-			 The size of the char datatype is 1bit
-			 default size=false
- 
- 
- https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2025-06/R/eclipse-inst-jre-win64.exe
- 
- 
-Non-Primitive or Referenced Datatype or Object type.
-----------------------------------------------------
-Arrays
-Strings
-Object
-
-Employee
-Demo
-
-
-
-Structure of java program:
---------------------------
-package statements[0 to 1 times]
-import statements[0 to n-times]
-class statements[1-n times]
-variables[0 to n-times]
-methods[0 to n-times]
-
-package statements:
+Human Languages:
 -------------------
-Group of classes,Interfaces,Enum.
+If one person wants to communicate with another person 
+we are having human languages in the market.
+
+Ex: English,Telugu,Hindi,Tamil......
+
+Programming languages:
+----------------------
+If one person wants to communicate with machine/Computer 
+we are having programming languages in the market.
+
+Ex: C,C++,Java,Python,Php........
 
 
+Java:
+-----
+Java is programming language.
+Java is a free sofware.
+James Gosling is the team lead at the time of java program development.
+The firtversion of the java came into the market in the year of 1996.
+Java language developed by sun-mircrosystem.
+Before java6th version java was under the licence of Sunmicrosystem
+From java java 6th version onward java is under the licence oracle company.
 
-Step-1: Creat a java project
-Step: Under this project
-		--> src
-		-> create a packages 
-		--> classes/Interfaces/Enum
+
+Java Feature:
+-------------
+Simple: If we use the c,c++ we are having complex topix
+		1)Pointers
+		2)Memory Management.   	
+		3)Execption Hanling[1,2,3,4,5,......50,,,,,100]
+		4)Operator overloading
+Platform independent:
+---------------------
+Once we develop our application, We can run on any OS avaialble in the market.
+
+OOPS:
+-----
+    Object oriented programming system.
+	Everything we are going to represent in object format.
+	
+	4-Pillors of java/oops:
+	----------------------
+	1)Polymorphism
+	2)Encapsulation
+	3)Abstration
+	4)Inheritence
+	
+	1)Polymorphism:
+	---------------
+	Poly : Many
+	Morphism : Form
+	One task we can perform multiple ways called polimorphism.
+	
+	Ex: a+b,a+b+c,a+b+c+d......
+	
+	
+	2)Encapsulation:
+	-----------------
+	->Wrapping of variables and methods in a single unit of class called as encapsulation.
+	->Class[Variables  + Methods]
+	
+	Ex: capsul
+	
+	3)Abstration:
+	-------------
+	Hiding the unnecessory functionalities, Showing only  Required functionalities.
+	
+	Ex: ATM Machine
+	
+	
+	4)Inheritence:
+	--------------
+	Getting the properties from parent to child called as inheritence.
+	Getting the properties from parent class to child class called as inheritence.
+	Getting the properties from super class to sub class called as inheritence.
+	
+	 1) Single Inheritence[1child---> 1parent]
+	 2) multilevel Inheritence[1child---> 1parent->grandparent]
+	 3) Hierachial Inheritence[1child,child2---> 1parent]
+	 
+	 4) Hybrid Inheritence[SI+MLL]			-->	class(X)		-> interfaces
+	 5) Multiple Inheritence[child--->parent1,parent2...]-->class(x)-> interfaces
+	
+Multithredded:
+--------------
+Single Tasking: If we do only one task at a time called Single tasking.
+Multi Tasking : If we do multiple tasks at time called multitasking.
 
 
-Non-Primitive or Referenced Datatype or Object type.
-----------------------------------------------------
+Portable(changable):
+--------------------
+If we develop java application in the one machine we can easily  run on another machine.
+	
+Robust(Strong):
+---------------
+				1) Automatic memory management
+				2) Exception Hanling
+				
+Moral:WORA-> Write once run any where.
+------
+
+Java sofware installation process:
+---------------------------------
+Go to the browser
+search--> 8 software free download
+Java SE 8 Archive Downloads (JDK 8u202 and earlier)
+click on --> jdk-8u202-windows-x64.exe
+it will open the pop page --> click on check box --> login
+
+
+NOTE: If we are doing java installtion first time, we should be create the account
+      If we are having already accoung, just login.
+	  
+
+java Path setup:
+----------------
+click on --> search edit system environment variables
+		 --> enviromnet variables
+		 --> user variables + system variables
+		 --> go to the system variables 
+		 --> Click on the path
+		 --> Click on edit
+		 --> click on new
+		 --> past : C:\Program Files\Java\jdk1.8.0_202\bin
+		 
+		 
+JDK,JRE,JVM:
+-------------
+
+JDK: Java development kit.
+	 JDK contains set of tools[54 tools]
+	 By using these tools we can develop the application.
+	 Jdk consists of JRE,JVM,DEVELOPMENT TOOLS
+	 It is available physically
+	 
+JRE : Java Runtime environment.
+	  JRE is providing the environment/place for the execution of java program.
+      It is available physically
+	  JRE consists of JVM,Java packages,run time libraries.
+
+JVM :  Java virtual machine
+       It is available virtually, we are not able to see with our eyes.
+	   Jvm is take the bytecode and it will validate the bytecode and convert machine
+	   understandable format.
+	   Jvm is allocate/provide the memory whenever executing the program
+	   once java program execution got complete it will de-allocate/delete the memory.
+	 
+	 
+	 
+	 
+
+Variables
+DataTypes
+Naming convention
+Keywords
+Operators
+Loops
+Conditional statements
+String
 Arrays
-Strings
-Object
+Oops
+Collections
+Java8
+Multithredding
+File Handling
+
+Variables:
+----------
+Variables are are used to store the data/values.
+Int,char,boolean,double,float,byte.........
+
+1)Declation variables:
+--------------------
+int number;
+char grade;
+boolean isSave;
+double price;
+float number;
+byte number;
+System.out.println(isSave); -->false
+
+2)Initiolization variables:
+--------------------------
+
+
+
+
+Directly we can declare the variable & we can initiolize the data.
+----------------------------------------------------------------------
+int number=100;
+char grade='A';
+boolean isSave=true;
+double price=100.50;
+float price=100.50f;
+byte number=124;
+
+1)Primitive
+2)Non-Primitive datatype (OR) Referenced Datatypes (OR) Wrapper classes
+
+
+1)Primitive:
+------------
+1)Numeric datatype
+2)Non-Numeric
+
+1)Numeric datatype
+--------------------
+1)Integer datatype 					===>[byte,short,int,long]
+2)FlotingPoint datatype				===>[float,double]
+[Decimal datatypes]
+
+2)Non-Numeric
+--------------------
+1) char
+2) boolean
+
+
+2)Non-Primitive datatype (OR) Referenced Datatypes (OR) Wrapper classes:
+------------------------------------------------------------------------
+Arrays 
+String
+Object 
 
 Employee
-Demo
+Product
+
+
+
+1)Integral datatype 					===>[byte,short,int,long]
+
+byte:
+-----
+It will store the data either +/- numbers.
+the size of byte data typee is 1byte[8BITS]
+default value: 0
+
+
+short:
+-----
+It will store the data either +/- numbers.
+The size of byte data typee is 2bytes[16BITS]
+default value: 0
+
+int:
+----
+It will store the data either +/- numbers.
+The size of byte data typee is 4bytes[32BITS]
+default value: 0
+
+long:
+----
+It will store the data either +/- numbers.
+The size of byte data typee is 8bytes[32BITS]
+default value: 0
+
+
+2)FlotingPoint datatype[decimal]			===>[float,double]
+--------------------------------------------------------
+float:
+------
+It will store the decimal data either +/- decimal numbers.
+The size of byte data typee is 4bytes[32BITS]
+default value: 0.0
+
+double:
+------
+It will store the decimal data either +/- decimal numbers.
+The size of byte data typee is 8bytes[64BITS]
+
+default value: 0.0
+
+2)Non-Numeric:
+---------------
+char:
+-----
+It is used to only one charecter
+The size of the char data type is 2bytes
+
+default value: \u0000(empty)
+
+boolean:
+--------
+It will store only boolean data(true/false)
+The size of the char data type is 1bit
+
+default value: false
+
+Note : 1 Byte = 8 bits
+
+
+Non-Primitive:
+--------------
+String
+Arrays
+Object...
+
+
+String:
+------
+-->String is nothing but group of alphanumeric character.
+-->[0-9][a-z][A-Z][!@#$%^....]
+--> default value: null
+
+String str="helloA@@111";
+
+Object:
+--------
+It is super/parent class for the all the classes.
+--> default value: null
+
+Methods:
+--------
+toString()
+equals()
+finalize()
+hashCode()
+clone()
+getClass()
+wait(),wait(1param),wait(2param)
+notify()
+notifyAll()
+
+
+Naming convention(Identifiers):
+-------------------------------
+How we can write the names of the componensts in the java.
+componensts=variables,methods,classes,interfaces,constants
+
+[a-z]
+[A-Z]
+[0-9][Execpt first postion we can use any where]
+[_$]
+[when ever writing the component names don't use the keywords]
+
+variables:
+----------
+variables names start with lowercase letters.
+
+int number=10;[right]
+int numberOneTwo=10;[right]
+int 8number=10;(wrong)
+int _numbe$r=10;[right]
+int @numbe$r=10;[wrong]
+
+methods:
+--------
+methods names start with lowercase letters.
+
+public void add(){}
+public void addOfTwoNumbers(){}
+public void 9addOfTwoNumbers(){} //(X)
+public void _addOfTwo$Numbers(){}
+public void %addOfTwo$Numbers(){}
+
+
+classNames/InterfaceNames:
+----------------------------
+Class names and interfaces names both follows the same rules
+
+Everyword first characters should be capital letter.
+
+Employee
+Product
+Books
+Teacher
+
+EmployeeRepository
+ProductRepository
+BooksRepository
+TeacherRepository
+
+Constants:
+----------
+All the letters & Words should be capital
+If we are having more then one words, we should be seperate with underscore(_).
+
+  public static final String CONSTANT_STRING = "some constant";
+
+  public static final int CONSTANT_INTEGER = 5;
+  
+  public static final int PI = 3.14;
+  
+  
+Java programming structure:
+----------------------------
+package statements[0-1 time]
+import statements[0-n time]
+classes[1-n times]
+variables[0-ntimes]
+methods[0-ntimes]
+
+
+Operators:
+-----------
+Operator is used perform operations on the operands
+
+a+b
++ --> operation
+a,b--> operands
+
+Arithematic Operators[+,-,*,/,%]
+Relational Operators[!=,==,<=,<,>=,>]
+Logical Operators[&&,||,!]
+Assignment Operators[=,+=,-=,/=,%=]    
+Ternary Operator  boolean isEligible=age>=18?true:false;
+Unery Operator[increment[pre-increment(++a),post-increment(a++)]
+			 ,decrement[pre-decrement(--a),post-decrement(a--)]
+Bitwise Operators
+
+Loops:
+------
+Where we are starting
+Where we are ending
+How many steps we are doing
+ ++  ==>  < or <= 
+ --  ==>  > or >=
+
+for loop  
+while loop 
+do-while
+for-each
+
+for loop :
+----------
+If we want to iterate the data multiple times we can use for loop.
+If we having fixed amount of data
+
+syntax:
+-------
+			for(initiolization;Condtion;increment/decrement)
+			{
+			//statement...
+			}
+			
+Example:
+---------
+		int start = 1;
+		int end = 100000;
+
+		for (int i = start; i <= end; i++) {
+			System.out.println(i + " : Welcom to hyderabad");
+		}
+		
+while loop:
+------------
+If we wants to iterate the data multiple time we can use the while loop
+If we dont know no of iterations that you want to execute at the time we can use while loop
+
+
+syntax:
+		while(condition)
+		{
+		 //statements
+		 
+		  incre/decrement;
+		}
+Example:
+-------
+		int start1 = 1;
+		int end1 = 10;
+
+		while (start1 >= end1) {
+			System.out.println(start1 + " : Welcom to hyderabad");
+			start1++;
+		}
+		
+		
+do-while loop:
+------------
+If we wants to iterate the data multiple time swe can use the do-while loop
+If we dont know no of iterations that you want to execute at the time we can use do-while loop
+
+
+syntax:
+		do
+		{
+		 //statements
+		 
+		  incre/decrement;
+		}
+		while(condition);
+		
+Example:
+		int start = 1;
+		int end = 10;
+
+		do {
+			System.out.println(start + " : Welcom to hyderabad");
+			start++;
+		} while (start >= end);
+
+		
+While: If the conditions is true then ony it will intering into the loop
+       If the condition is false it will exit from the loop.
+do-while: If the condion either true or false, it will execute at least once.
+
+
+Conditional statements in java:
+-------------------------------
+if
+if-else 
+if-else if-else if-else if
+if-else if-else if-else if-----else
+switch statement
+
+if:
+---
+package in01.loops.conditionaloperators;
+
+public class ConditionalOperator1 {
+	public static void main(String[] args) {
+		
+		int number=-1;
+		
+		if(number > 0)
+		{
+			System.out.println("It is a positive number");
+		}
+		
+		System.out.println("Outside the if condition");
+		
+	}
+
+}
+
+
+if-else:
+--------
+int number=-1;
+		
+		if(number > 0)
+		{
+			System.out.println("It is a positive number");
+		}
+		else
+		{
+			System.out.println("It is a negative number");
+		}
+
+if-else if-else if-else if
+if-else if-else if-else if-----else
+
+int marks=34;
+		/*
+		 * 90 to 100 ==> A Grade
+		 * 75 to 89  ==> B Grade
+		 * 50 to 74  ==> C-Grade
+		 * 35 to 49  ==> D grade
+		 */
+		if(marks >=90)
+		{
+			System.out.println("A-Grade");
+		}
+		else if(marks >= 75)
+		{
+			System.out.println("B-Grade");
+		}
+		else if(marks >= 50)
+		{
+			System.out.println("C-Grade");
+		}
+		else if(marks >= 35)
+		{
+			System.out.println("D-Grade");
+		}
+		else if(marks >= 0){
+			System.out.println("fail next time better");
+		}
+		else
+		{
+			System.out.println("Please enter a valid marks");
+		}
+		
+switch:
+-------
+int bulbNo=7;
+		switch (bulbNo) {
+		case 1:System.out.println("Bulb Glow in room no-1");
+		break;
+		case 2:System.out.println("Bulb Glow in room no-2 : ");
+		break;
+		case 3:System.out.println("Bulb Glow in room no-3 : ");
+		break;
+		case 4:System.out.println("Bulb Glow in room no-4 : ");
+		break;
+		case 5:System.out.println("Bulb Glow in room no-5 : ");
+		break;
+		case 6:System.out.println("Bulb Glow in room no-6 : ");
+		default: System.out.println("Please enter a valid room number");
+		}
+		
+pattern1:
+---------
+for (int i = 1; i <= 5; i++) {
+
+			for (int j = 1; j <=5; j++) {
+				System.out.print(i);
+			}
+			
+			System.out.println();
+
+		}
+		
+pattern2:
+--------
+for (int i = 1; i <= 5; i++) {
+
+			for (int j = 1; j <=5; j++) {
+				System.out.print(j);
+			}
+			
+			System.out.println();
+
+		}
+		
+pattern3:
+---------
+for (int i = 1; i <= 5; i++) {
+
+			for (int j = 1; j <= 5; j++) {
+				System.out.print("*");
+			}
+
+			System.out.println();
+
+		}
+pattern4:
+---------
+for (char i = 'a'; i <= 'e'; i++) {
+
+			for (char j = 'a'; j <= 'e'; j++) {
+				System.out.print(i);
+			}
+
+			System.out.println();
+
+		}
+		
+pattern5:
+----------
+for (char i = 'a'; i <= 'e'; i++) {
+
+			for (char j = 'a'; j <= 'e'; j++) {
+				System.out.print(j);
+			}
+
+			System.out.println();
+
+		}
+		
+pattern 6:
+-----------
+
+		for (int i = 1; i <= 5; i++) {
+
+			for (int j = 1; j <= i; j++) {
+				System.out.print(i);
+			}
+
+			System.out.println();
+
+		}
+		
+pattern 7:
+--------
+for (int i = 1; i <= 5; i++) {
+
+			for (int j = 1; j <= i; j++) {
+				System.out.print(j);
+			}
+
+			System.out.println();
+
+		}
+		
+pattern 8::
+-------------
+for (char i = 'A'; i <= 'E'; i++) {
+
+			for (int j = 'A'; j <= i; j++) {
+				System.out.print(i);
+			}
+
+			System.out.println();
+
+		}
+
+pattern 9::
+-------------
+for (int i = 5; i >= 1; i--) {
+
+			for (int j = i; j >=1; j--) {
+				System.out.print(i);
+			}
+			
+			System.out.println();
+
+		}
+
+pattern 10:
+-------------
+for (int i = 5; i >= 1; i--) {
+
+			for (int j = i; j >=1; j--) {
+				System.out.print(j);
+			}
+			
+			System.out.println();
+
+		}
+
+1) Multiplication table of a given number
+2) Factorial of a number using a loop
+3) Fibonacci series up to n terms[0,1,1,2,3]
+4) Check if a number is prime or not[1,itself]
+5) Check if a number is a palindrome[12321->12321]
+6) Check if a number is an Armstrong number
+7) Sum of digits of a number
+8) Reverse a number
+9) Greatest of three numbers using if-else
+10) Count even and odd digits in a number
+
+---------------------------------------------------------------
+
+Variables: It is used to store one value time.
+int a=10;
 
 Arrays:
 -------
-It is used to store more than one value into the single variable.
-Ex:
-		int[] numbers=new int[] {10,23,50,89,48,13};  //int[] 100values-->4bytes //400-4=394
-		char[] character=new char[] {'a','v','c'};  //int[] 100values-->4bytes
-		float[] prices=new float[] {10.10f,20.20f,30.30f};  //int[] 100values-->4bytes
+It is use to store number of values in a single vairable.
+
+Declaration of the array:
+--------------------------
+int[] arr;
+int []arr;
+int arr[];
+
+String[] str;
+String []arr;
+String arr[];
+
+boolean[] str;
+boolean []arr;
+boolean arr[];
+
+
+
+
+Declaration + Initiolization with default valus;
+------------------------------------------------
+int[] arr=new [5];[0,0,0,0,0]
+boolean[] arr=new [5];[false,false,false,false,false]
+String[] arr=new [5];[null,null,null,null,null]
+
+
+Declaration + Initiolization with given values by using new word;
+-----------------------------------------------------------------
+int[] arr=new []{2,4,7,8,9};
+boolean[] arr=new []{true,false,true,true,false};
+String[] arr=new []{"hari","charan","vinay","chandu","kiran"};
+
+
+Declaration + Initiolization with given values with literal approach;
+---------------------------------------------------------------------
+int[] arr={2,4,7,8,9};
+boolean[] arr={true,false,true,true,false};
+String[] arr={"hari","charan","vinay","chandu","kiran"};
+
+
+Remove the duplicate numbers in the array print unique values.
+Reverse the array.
+Print the 2nd max values in the array.
+
+Arrays Repeatedly asking questions
+-----------------------------------
+
+Basic Level (Revision – Warmup)
+
+Find the sum of elements in an array.  				==> sum=sum+i /sum+=i
+
+Find the maximum and minimum element in an array.   ==> max=a[0],if(max<a[i])-->max=a[i])
+													==> min=a[0],if(min>a[i])-->min=a[i])
+
+Reverse an array.									==>int a[]={1,2,3,4,5}==>int for(
+
+Copy all elements from one array to another.
+
+Find the average of array elements.[average=sum elements/no of elements]
+
+Intermediate Level
+
+Remove duplicates from an array.
+
+Print array elements in ascending and descending order (without using inbuilt sort).
+
+Find the second largest element in an array.
+
+Find the second smallest element in an array.
+
+Merge two sorted arrays into one sorted array.[1,1]->[2]
+
+Find the missing number in a sequence (1…n).
+				formuale: sum of the elements in the array
+				n * (n + 1) / 2; // sum of 1 to n
+
+Find the duplicate elements in an array.
+
+Separate even and odd numbers from an array.
+
+Move zeros to the last posion from the given array
+
+Find the frequency of each element in an array(collections).
+
+Rotate an array to the left/right by K positions.
+
+formulae:
+---------
+
+left rotate:
+result[i] = arr[(i + k) % n]
+
+arr = [1, 2, 3, 4, 5]
+k = 2
+output:
+Left Rotated Array: 3 4 5 1 2
+
+
+
+right rotate:
+result[i] = arr[(i - k + n) % n]
+
+arr = [1, 2, 3, 4, 5]
+k = 2
+Right Rotated Array: 4 5 1 2 3
+
+
+String:
+-------
+String is also called as group of alphaNumericSpecial characters.
+[a-z]
+[A-Z]
+[0-9]
+[@&*%......]
+
+1) By Using Literal.
+2) By Using new Keyword
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 
- String:
- -------
- It a combination of alphanumericspecial characters
- [a-z][A-Z][0-9][!@#$%]
- 
- String  String literal approach:
- ------------------------
- String s="9hari9@@@A";
- 
- By using new keyword
- ------------------------
- String str=new String("vijay");
- 
- 
- Object:
- --------
- Object class the super class for all the classes.
- 
- Method:
- ------
- toString()
- equals()
- finalize()
- hashcode()
- notify()
- notifyAll()
- getClass()
- wait()
- wait(1param)
- wait(2param)
- clone()
- 
- 
- Operators:
- ----------
- Operator is used to perfrom the operations on the operands
- 
- Ex: a+b,a-b,a*b.
- 
- Operators: +,-,*
- Operands: a,b
- 
- 1) Arithematic Operators[+,-,*,/,%]
- 2) Relational Operators/Comparison Operator[==,!=,<,<=,>,>-]
- 3) Logical Operators [AND(&&),OR(||),NOT(!)]
- 4) Unery Operator
-			[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
-			2) Decrement(1)Pre-Decrement(--a),2)Post Decrement(a--), 
- 5) Ternery Operator[num>0?true:false;]
- 6) Assignment Operator[=,+=,-=,*=,/=,%=]
- 
- 
- 	// 1) Arithematic Operators[+,-,*,/,%]
-		int a = 10;
-		int b = 5;
 
-		System.out.println(a + b);//15
-		System.out.println(a - b);//5
-		System.out.println(a * b);//50
-		System.out.println(a / b);//2
-		System.out.println(a % b);//10%5==>0
+	
 		
-		//2) Relational Operators/Comparison Operator[==,!=,<,<=,>,>=]
-		int a = 10;
-		int b = 20;
-		System.out.println(a == b); // false
-		System.out.println(a != b); // true
-		System.out.println(a < b); // true
-		System.out.println(a <= b);// true
-		System.out.println(a > b);// false
-		System.out.println(a >= b);// false
 		
-		//		3) Logical Operators [AND(&&),OR(||),NOT(!)]
-
-		System.out.println(true && true && true && true && true && true);// true
-		System.out.println(false && true && true && true && true && true);// false
-		System.out.println(false && false && true && true && true && true);// false
-		System.out.println(false && false && false && true && true && true);// false
-		System.out.println(false && false && false && false && false && false);// false
-
-		System.out.println("----------------------------------------------------");
-		System.out.println(true || false || false || false || false || false);// true
-		System.out.println(false || false || false || false || false || false);// false
-		System.out.println("----------------------------------------------------");
-		System.out.println(!true);// false
-		System.out.println(!false);// true
-		
-		//		 4) Unery Operator
-//	[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
-//	2) Decrement(1)Pre-Decrement(--a),2)Post Decrement(a--), 
-
-//		[1)Increment(1)Pre-Increment(++a),2)Post Increment(a++), 
-		// pre--> It will increment/decrement happend in the same line.
-		// post--> It will increment/decrement happend in the next line.
-		int a = 10;
-		System.out.println(++a);// 11
-		System.out.println(++a);// 12
-		System.out.println(a++);// 12
-		System.out.println(++a);// 12+1+1=14
-		System.out.println(a++);// 14
-		System.out.println(a++);// 15
-		System.out.println(++a);// 15+1+1=17
- 
- 
- 
- 
- 
- 
- 
- 
- 
 
 
 
 
 
-
-
-				
